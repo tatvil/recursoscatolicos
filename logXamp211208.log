@@ -1,0 +1,5 @@
+
+[Note] InnoDB: Starting crash recovery from checkpoint LSN=378206
+[Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+[Note] InnoDB: 10.4.22 started; log sequence number 378215; transaction id 437
+[Note] InnoDB: Buf2021-12-08 16:09:41 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
